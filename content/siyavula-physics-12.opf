@@ -41,7 +41,7 @@
 <item id="TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" href="../resources/TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" media-type="image/jpeg"/>
 <item id="Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" href="../resources/Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" media-type="image/jpeg"/>
 
-  <item href="Project-intro.html" id="Project-intro.html" media-type="application/xhtml+xml"/></manifest>
+  <item href="Project-intro.html" id="Project-intro.html" media-type="application/xhtml+xml"/><item href="mybook-5f7419f5-03ec-42dc-8584-1fd73f21de7d-nav.html" id="mybook-5f7419f5-03ec-42dc-8584-1fd73f21de7d-nav.html" media-type="application/xhtml+xml"/><item href="module1-692b2b00-7ed0-47f0-a51b-6d9d16f960c9.html" id="module1-692b2b00-7ed0-47f0-a51b-6d9d16f960c9.html" media-type="application/xhtml+xml"/></manifest>
   <spine>
 	<itemref idref="chapter-10"/>
 	<itemref idref="chapter-11"/>
